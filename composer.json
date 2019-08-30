@@ -2,6 +2,7 @@
     "name": "pikepa/activity",
     "type": "project",
     "minimum-stability": "dev",
+    "licence": "MIT",
     "require": {},
     "autoload": {
       "psr-4": {
