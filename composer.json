@@ -1,0 +1,19 @@
+{
+    "name": "pikepa/activity",
+    "type": "project",
+    "minimum-stability": "dev-master",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+          "Pikepa\\Activity\\": "src/"
+      }
+    },
+    "extra": {
+        "laravel": {
+              "providers": [
+                  "Pikepa\\Activity\\ActivityServiceProvider"
+          
+              ]
+        }
+    }
+}
